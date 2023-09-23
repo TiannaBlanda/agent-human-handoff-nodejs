@@ -34,3 +34,4 @@ class ChatConnectionHandler {
 }
 
 module.exports = ChatConnectionHandler;
+ 
