@@ -87,3 +87,4 @@ class OperatorConnectionHandler extends ChatConnectionHandler {
 }
 
 module.exports = OperatorConnectionHandler;
+ 
